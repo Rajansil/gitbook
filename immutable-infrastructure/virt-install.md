@@ -1,4 +1,4 @@
-# 2⃣ Virt-Install
+#  Virt-Install
 
 &#x20;   **I.      Download iso**\
 &#x20;    **II.     Create vm with `virsh create` command (ks.cfg)**\
