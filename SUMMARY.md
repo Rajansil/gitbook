@@ -11,11 +11,11 @@
 
 ## 🖥 Immutable Infrastructure
 
-* [1⃣ 1⃣ Content](immutable-infrastructure/content.md)
-* [2⃣ 2⃣ Virt-Install](immutable-infrastructure/virt-install.md)
-* [3⃣ 3⃣ Base Image](immutable-infrastructure/base-image.md)
-* [4⃣ 4⃣ Golden-Image](immutable-infrastructure/golden-image.md)
-* [5⃣ 5⃣ After-Golden-Image](immutable-infrastructure/after-golden-image.md)
+* [1⃣ Content](immutable-infrastructure/content.md)
+* [2⃣ Virt-Install](immutable-infrastructure/virt-install.md)
+* [3⃣ Base Image](immutable-infrastructure/base-image.md)
+* [4⃣ Golden-Image](immutable-infrastructure/golden-image.md)
+* [5⃣ After-Golden-Image](immutable-infrastructure/after-golden-image.md)
 
 ## ⚠ Monitoring Tools
 
