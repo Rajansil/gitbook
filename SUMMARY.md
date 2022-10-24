@@ -5,9 +5,9 @@
 ## Project
 
 * [🖥 Immutable Infrastructure](project/immutable-infrastructure.md)
+* [⚠ Monitoring Tools](project/monitoring-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
 * [💻 Building Tools](project/building-tools.md)
-* [⚠ Monitoring Tools](project/monitoring-tools.md)
 
 ## 🖥 Immutable Infrastructure
 
