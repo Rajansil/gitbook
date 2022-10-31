@@ -25,6 +25,7 @@
 
 ## 🏎 Automation Tools
 
+* [CI/CD Pipeline](automation-tools/ci-cd-pipeline.md)
 * [Terraform](automation-tools/terraform/README.md)
   * [Project](automation-tools/terraform/project.md)
   * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
