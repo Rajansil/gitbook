@@ -25,13 +25,13 @@
 
 ## 🏎 Automation Tools
 
-* [CI/CD Pipeline](automation-tools/ci-cd-pipeline.md)
-* [Terraform](automation-tools/terraform/README.md)
-  * [Project](automation-tools/terraform/project.md)
-  * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
 * [🖨 Ansible](automation-tools/ansible.md)
   * [List of my Ansible](automation-tools/ansible/list-of-my-ansible.md)
   * [Command Familiars in Ansible](automation-tools/ansible/command-familiars-in-ansible.md)
+* [Terraform](automation-tools/terraform/README.md)
+  * [Project](automation-tools/terraform/project.md)
+  * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
+* [CI/CD Pipeline](automation-tools/ci-cd-pipeline.md)
 
 ## 💻 Building Tools
 
