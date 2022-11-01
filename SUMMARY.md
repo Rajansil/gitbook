@@ -42,6 +42,7 @@
 * [🔄 OpenNebula](building-tools/opennebula.md)
   * [Setup OpenNebula](building-tools/opennebula/setup-opennebula.md)
   * [Onehost Server](building-tools/opennebula/onehost-server.md)
+  * [Build VM in OpenNebula](building-tools/opennebula/build-vm-in-opennebula.md)
 
 ## ☁ AWS
 
