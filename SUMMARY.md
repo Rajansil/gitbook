@@ -39,7 +39,8 @@
 
 ## 💻 Building Tools
 
-* [🔄 OpenNebula](building-tools/opennebula.md)
+* [🔄 OpenNebula](building-tools/opennebula/README.md)
+  * [Setup OpenNebula](building-tools/opennebula/setup-opennebula.md)
 
 ## ☁ AWS
 
