@@ -19,7 +19,9 @@
 
 ## ⚠ Monitoring Tools
 
-* [💡 Prometheus](monitoring-tools/prometheus.md)
+* [💡 Prometheus](monitoring-tools/prometheus/README.md)
+  * [Setup Node-exporter](monitoring-tools/prometheus/setup-node-exporter.md)
+  * [How to Setup Prometheus](monitoring-tools/prometheus/how-to-setup-prometheus.md)
 * [💡 Grafana](monitoring-tools/grafana.md)
 * [💡 Nagios](monitoring-tools/nagios.md)
 
