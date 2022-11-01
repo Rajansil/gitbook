@@ -8,7 +8,7 @@
 * [⚠ Monitoring Tools](project/monitoring-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
 * [💻 Building Tools](project/building-tools.md)
-* [☁ AWS](project/aws.md)
+* [☁ AWS](project/building-tools-1.md)
 
 ## 🖥 Immutable Infrastructure
 
