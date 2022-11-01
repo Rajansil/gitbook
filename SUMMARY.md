@@ -8,6 +8,7 @@
 * [⚠ Monitoring Tools](project/monitoring-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
 * [💻 Building Tools](project/building-tools.md)
+* [☁ AWS](project/aws.md)
 
 ## 🖥 Immutable Infrastructure
 
@@ -39,3 +40,9 @@
 ## 💻 Building Tools
 
 * [🔄 OpenNebula](building-tools/opennebula.md)
+
+## ☁ AWS
+
+* [🌥 EC2](aws/opennebula.md)
+* [🌥 VPC](aws/opennebula-1.md)
+* [🌥 IAM](aws/opennebula-2.md)
