@@ -46,3 +46,4 @@
 * [🌥 EC2](aws/opennebula.md)
 * [🌥 VPC](aws/opennebula-1.md)
 * [🌥 IAM](aws/opennebula-2.md)
+* [⛅ S3 Buckets](aws/s3-buckets.md)
