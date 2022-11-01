@@ -39,8 +39,9 @@
 
 ## 💻 Building Tools
 
-* [🔄 OpenNebula](building-tools/opennebula/README.md)
+* [🔄 OpenNebula](building-tools/opennebula.md)
   * [Setup OpenNebula](building-tools/opennebula/setup-opennebula.md)
+  * [Onehost Server](building-tools/opennebula/onehost-server.md)
 
 ## ☁ AWS
 
