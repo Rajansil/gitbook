@@ -4,7 +4,8 @@
 
 ## Project
 
-* [🖥 Immutable Infrastructure](project/immutable-infrastructure.md)
+* [👨💼 Daily Activities](project/immutable-infrastructure.md)
+* [🖥 Immutable Infrastructure](project/immutable-infrastructure-1.md)
 * [⚠ Monitoring Tools](project/monitoring-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
 * [💻 Building Tools](project/building-tools.md)
@@ -50,3 +51,4 @@
 * [🌥 VPC](aws/opennebula-1.md)
 * [🌥 IAM](aws/opennebula-2.md)
 * [🌥 S3 Buckets](aws/s3-buckets.md)
+* [🌥 Load Balancer](aws/load-balancer.md)
