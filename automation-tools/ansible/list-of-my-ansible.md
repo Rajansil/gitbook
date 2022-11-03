@@ -11,3 +11,4 @@
 7. Building Ansible server
 8. Building Opennebula server
 9. Managing hosts sever in Opennebula&#x20;
+10. Migrating VM&#x20;
