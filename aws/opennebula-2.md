@@ -14,4 +14,4 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 2.45.38 PM.png" alt=""><figcaption></figcaption></figure>
 
-**Step 4:**  Last step will be to review before you finilize your use creation. If you think everything is good. Please click on **Create User.** Now you have finally create a user.
+**Step 4:**  Last step will be to review before you finilize your use creation. If you think everything is good. Please click on **Create User.** Now you have finally create a user. AWS will provide you **Access Key ID** and **Secret access Key**. Please save it in your computer for future use.
