@@ -50,7 +50,8 @@
 
 * [🌥 EC2](aws/opennebula.md)
 * [🌥 VPC](aws/opennebula-1.md)
-* [🌥 IAM](aws/opennebula-2.md)
-* [🌥 S3 Buckets](aws/s3-buckets.md)
 * [🌥 Load Balancer](aws/load-balancer.md)
 * [🌥 Auto Scaling](aws/auto-scaling.md)
+* [🌥 Route 53](aws/route-53.md)
+* [🌥 IAM](aws/opennebula-2.md)
+* [🌥 S3 Buckets](aws/s3-buckets.md)
