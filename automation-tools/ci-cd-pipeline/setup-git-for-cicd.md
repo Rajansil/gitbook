@@ -12,7 +12,7 @@ git clone git@gitlab.com......
 ```
 
 **Step 3:**  Open the folder in VS code and starting writng a script in .gitlab-ci.yml.\
-In the following script I am using docker to build a CI/CD pipeline.
+In the following script I am using docker to build a CI/CD pipeline. In order to use a docker we need to have docker in docker hub and create a Dockerfile folder. Include image with version and mention port number in dockerfile.
 
 <pre><code><strong>Stages:
 </strong><strong>    - test

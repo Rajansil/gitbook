@@ -53,3 +53,4 @@
 * [🌥 IAM](aws/opennebula-2.md)
 * [🌥 S3 Buckets](aws/s3-buckets.md)
 * [🌥 Load Balancer](aws/load-balancer.md)
+* [🌥 Auto Scaling](aws/auto-scaling.md)
