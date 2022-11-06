@@ -1,3 +1,4 @@
 # 🌥 VPC
 
-Opennebula open1
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 1.51.49 AM.png" alt=""><figcaption></figcaption></figure>
+
