@@ -3,7 +3,7 @@
 CI/CD is the top-level component of continuous integration, delivery, and deployment. Pipelines are a collection of jobs that are divided by stages.\
 For more details:  [https://about.gitlab.com/topics/ci-cd/](https://about.gitlab.com/topics/ci-cd/)
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-31 at 4.02.51 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-10-31 at 4.02.51 PM.png" alt=""><figcaption></figcaption></figure>
 
 **CI/CD Pipeline Stages:**
 

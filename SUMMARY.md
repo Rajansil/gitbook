@@ -36,7 +36,8 @@
 * [Terraform](automation-tools/terraform/README.md)
   * [Project](automation-tools/terraform/project.md)
   * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
-* [CI/CD Pipeline](automation-tools/ci-cd-pipeline.md)
+* [CI/CD Pipeline](automation-tools/ci-cd-pipeline/README.md)
+  * [Setup Git for CICD](automation-tools/ci-cd-pipeline/setup-git-for-cicd.md)
 
 ## 💻 Building Tools
 
