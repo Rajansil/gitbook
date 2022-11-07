@@ -36,7 +36,7 @@
 * [Terraform](automation-tools/terraform/README.md)
   * [Setup Terraform in AWS](automation-tools/terraform/setup-terraform-in-aws.md)
   * [Create VPC using .tf](automation-tools/terraform/create-vpc-using-.tf.md)
-  * [Project](automation-tools/terraform/project.md)
+  * [Create EC2 using .tf](automation-tools/terraform/create-ec2-using-.tf.md)
   * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
 * [CI/CD Pipeline](automation-tools/ci-cd-pipeline/README.md)
   * [Setup Git for CICD](automation-tools/ci-cd-pipeline/setup-git-for-cicd.md)
