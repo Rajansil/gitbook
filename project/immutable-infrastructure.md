@@ -19,7 +19,6 @@ description: My daily work in Ooma from November 2021 - Present
 * &#x20;Minimized system downtime by configuring the infrastructure for high availability and maintaining daily backups.
 * &#x20;Creating, upgrading, and cloning virtual machine using VMware, Open nebula.&#x20;
 * Created documents for change management, job aids for users and how to documents for administrative tasks.
-* JIRA integration using Golang which create and retrieve issues, Call every API endpoint of the JIRA.
 * User management by setting up users and groups, network conficonfiguration, password, resolving permissions issues, user and group sudo access management.
 * Troubleshooting steps for Filesystem, Network issues.
 * Experienced in KVM virtualization, setting up iLO configuration.
