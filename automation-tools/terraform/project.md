@@ -1,4 +1,4 @@
-# Project
+# Create EC2 using .tf
 
 **We are adding this script in our main.tf to add VM**
 

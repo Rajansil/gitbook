@@ -36,7 +36,7 @@
 * [Terraform](automation-tools/terraform/README.md)
   * [Setup Terraform in AWS](automation-tools/terraform/setup-terraform-in-aws.md)
   * [Create VPC using .tf](automation-tools/terraform/create-vpc-using-.tf.md)
-  * [Create EC2 using .tf](automation-tools/terraform/create-ec2-using-.tf.md)
+  * [Create EC2 using .tf](automation-tools/terraform/project.md)
   * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
 * [CI/CD Pipeline](automation-tools/ci-cd-pipeline/README.md)
   * [Setup Git for CICD](automation-tools/ci-cd-pipeline/setup-git-for-cicd.md)
@@ -51,9 +51,9 @@
 ## ☁ AWS
 
 * [🌥 EC2](aws/opennebula.md)
-* [🌥 VPC](aws/opennebula-1.md)
+* [🌥 IAM](aws/opennebula-1.md)
+* [🌥 VPC](aws/opennebula-2.md)
 * [🌥 Load Balancer](aws/load-balancer.md)
 * [🌥 Auto Scaling](aws/auto-scaling.md)
 * [🌥 Route 53](aws/route-53.md)
-* [🌥 IAM](aws/opennebula-2.md)
 * [🌥 S3 Buckets](aws/s3-buckets.md)
