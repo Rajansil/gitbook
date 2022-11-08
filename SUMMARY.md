@@ -54,6 +54,3 @@
 * [🌥 IAM](cloud-aws/opennebula-1.md)
 * [🌥 VPC](cloud-aws/opennebula-2.md)
 * [🌥 Load Balancer](cloud-aws/load-balancer.md)
-* [🌥 Auto Scaling](cloud-aws/auto-scaling.md)
-* [🌥 Route 53](cloud-aws/route-53.md)
-* [🌥 S3 Buckets](cloud-aws/s3-buckets.md)
