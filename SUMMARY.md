@@ -8,8 +8,8 @@
 * [🖥 Immutable Infrastructure](project/immutable-infrastructure-1.md)
 * [⚠ Monitoring Tools](project/monitoring-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
-* [💻 Building Tools](project/building-tools.md)
-* [🔶 AWS](project/building-tools-1.md)
+* [💻 Virtualization](project/building-tools.md)
+* [🔶 Cloud (AWS)](project/building-tools-1.md)
 
 ## 🖥 Immutable Infrastructure
 
@@ -41,19 +41,19 @@
 * [CI/CD Pipeline](automation-tools/ci-cd-pipeline/README.md)
   * [Setup Git for CICD](automation-tools/ci-cd-pipeline/setup-git-for-cicd.md)
 
-## 💻 Building Tools
+## 💻 Virtualization&#x20;
 
-* [🔄 OpenNebula](building-tools/opennebula.md)
-  * [Setup OpenNebula](building-tools/opennebula/setup-opennebula.md)
-  * [Onehost Server](building-tools/opennebula/onehost-server.md)
-  * [Build VM in OpenNebula](building-tools/opennebula/build-vm-in-opennebula.md)
+* [🔄 OpenNebula](virtualization/opennebula/README.md)
+  * [Setup OpenNebula](virtualization/opennebula/setup-opennebula.md)
+  * [Onehost Server](virtualization/opennebula/onehost-server.md)
+  * [Build VM in OpenNebula](virtualization/opennebula/build-vm-in-opennebula.md)
 
-## 🔶 AWS
+## 🔶 Cloud (AWS)
 
-* [🌥 EC2](aws/opennebula.md)
-* [🌥 IAM](aws/opennebula-1.md)
-* [🌥 VPC](aws/opennebula-2.md)
-* [🌥 Load Balancer](aws/load-balancer.md)
-* [🌥 Auto Scaling](aws/auto-scaling.md)
-* [🌥 Route 53](aws/route-53.md)
-* [🌥 S3 Buckets](aws/s3-buckets.md)
+* [🌥 EC2](cloud-aws/opennebula.md)
+* [🌥 IAM](cloud-aws/opennebula-1.md)
+* [🌥 VPC](cloud-aws/opennebula-2.md)
+* [🌥 Load Balancer](cloud-aws/load-balancer.md)
+* [🌥 Auto Scaling](cloud-aws/auto-scaling.md)
+* [🌥 Route 53](cloud-aws/route-53.md)
+* [🌥 S3 Buckets](cloud-aws/s3-buckets.md)
