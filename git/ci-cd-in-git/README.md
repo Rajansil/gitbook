@@ -1,4 +1,4 @@
-# CI/CD Pipeline
+# 🐇 CI/CD in Git
 
 CI/CD is the top-level component of continuous integration, delivery, and deployment. Pipelines are a collection of jobs that are divided by stages.\
 For more details:  [https://about.gitlab.com/topics/ci-cd/](https://about.gitlab.com/topics/ci-cd/)

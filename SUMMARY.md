@@ -5,19 +5,12 @@
 ## Project
 
 * [👨💼 Daily Activities](project/immutable-infrastructure.md)
-* [🖥 Immutable Infrastructure](project/immutable-infrastructure-1.md)
 * [⚠ Monitoring Tools](project/monitoring-tools.md)
+* [✍ Git](project/building-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
-* [💻 Virtualization](project/building-tools.md)
-* [🔶 Cloud (AWS)](project/building-tools-1.md)
-
-## 🖥 Immutable Infrastructure
-
-* [1⃣ Content](immutable-infrastructure/content.md)
-* [2⃣ Virt-Install](immutable-infrastructure/virt-install.md)
-* [3⃣ Base Image](immutable-infrastructure/base-image.md)
-* [4⃣ Golden-Image](immutable-infrastructure/golden-image.md)
-* [5⃣ After-Golden-Image](immutable-infrastructure/after-golden-image.md)
+* [💻 Virtualization](project/building-tools-1.md)
+* [🖥 Immutable Infrastructure](project/immutable-infrastructure-1.md)
+* [🔶 Cloud (AWS)](project/building-tools-2.md)
 
 ## ⚠ Monitoring Tools
 
@@ -27,6 +20,11 @@
   * [Setup Prometheus to get metrics](monitoring-tools/prometheus/setup-prometheus-to-get-metrics.md)
 * [💡 Grafana](monitoring-tools/grafana.md)
 * [💡 Nagios](monitoring-tools/nagios.md)
+
+## ✍ Git
+
+* [🐇 CI/CD in Git](git/ci-cd-in-git/README.md)
+  * [Setup Git for CICD](git/ci-cd-in-git/setup-git-for-cicd.md)
 
 ## 🏎 Automation Tools
 
@@ -38,8 +36,6 @@
   * [Create VPC using .tf](automation-tools/terraform/create-vpc-using-.tf.md)
   * [Create EC2 using .tf](automation-tools/terraform/project.md)
   * [Command Familiars in Terraform](automation-tools/terraform/command-familiars-in-terraform.md)
-* [CI/CD Pipeline](automation-tools/ci-cd-pipeline/README.md)
-  * [Setup Git for CICD](automation-tools/ci-cd-pipeline/setup-git-for-cicd.md)
 
 ## 💻 Virtualization&#x20;
 
@@ -47,6 +43,14 @@
   * [Setup OpenNebula](virtualization/opennebula/setup-opennebula.md)
   * [Onehost Server](virtualization/opennebula/onehost-server.md)
   * [Build VM in OpenNebula](virtualization/opennebula/build-vm-in-opennebula.md)
+
+## 🖥 Immutable Infrastructure
+
+* [1⃣ Content](immutable-infrastructure/content.md)
+* [2⃣ Virt-Install](immutable-infrastructure/virt-install.md)
+* [3⃣ Base Image](immutable-infrastructure/base-image.md)
+* [4⃣ Golden-Image](immutable-infrastructure/golden-image.md)
+* [5⃣ After-Golden-Image](immutable-infrastructure/after-golden-image.md)
 
 ## 🔶 Cloud (AWS)
 
