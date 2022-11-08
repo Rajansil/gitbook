@@ -9,7 +9,7 @@
 * [⚠ Monitoring Tools](project/monitoring-tools.md)
 * [🏎 Automation Tools](project/automation-tools.md)
 * [💻 Building Tools](project/building-tools.md)
-* [☁ AWS](project/building-tools-1.md)
+* [🔶 AWS](project/building-tools-1.md)
 
 ## 🖥 Immutable Infrastructure
 
@@ -48,7 +48,7 @@
   * [Onehost Server](building-tools/opennebula/onehost-server.md)
   * [Build VM in OpenNebula](building-tools/opennebula/build-vm-in-opennebula.md)
 
-## ☁ AWS
+## 🔶 AWS
 
 * [🌥 EC2](aws/opennebula.md)
 * [🌥 IAM](aws/opennebula-1.md)
