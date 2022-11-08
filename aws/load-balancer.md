@@ -13,7 +13,7 @@ It is a single point of contact for clients. The load balancer distributes incom
 2. Create Target Group --> Select instances or IP , Name, select VPC, health check( set basic configurations)
 	I. Setup Register Targets --> Select instances, Once we create a target group, now register the traffice to LB  
 3. Set listern HTTP:80 to target group 
-5. Finally, Our Load Balancer
+5. Finally, Our Load Balancer setup is ready
 
 Under Basic Configuration of LB: You can see DNS(A record) to access.
 
