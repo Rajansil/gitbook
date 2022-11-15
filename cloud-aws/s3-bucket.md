@@ -36,5 +36,3 @@ If you like to add photo from your local computer, just click on upload and add 
 Now we can able to view our date from internet. We can see the link if we see under properties:
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-14 at 11.41.19 PM.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-14 at 11.44.29 PM.png" alt=""><figcaption></figcaption></figure>
