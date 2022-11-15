@@ -29,8 +29,7 @@
 ## 🏎 Automation Tools
 
 * [🖨 Ansible](automation-tools/ansible.md)
-  * [List of my Ansible](automation-tools/ansible/list-of-my-ansible.md)
-  * [Command Familiars in Ansible](automation-tools/ansible/command-familiars-in-ansible.md)
+  * [List of my Ansible Playbook](automation-tools/ansible/list-of-my-ansible-playbook.md)
 * [Terraform](automation-tools/terraform/README.md)
   * [Setup Terraform in AWS](automation-tools/terraform/setup-terraform-in-aws.md)
   * [Create VPC using .tf](automation-tools/terraform/create-vpc-using-.tf.md)
