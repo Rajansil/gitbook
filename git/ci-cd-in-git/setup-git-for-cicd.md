@@ -20,7 +20,7 @@ In the following script I am using docker to build a CI/CD pipeline. In order to
 </strong><strong>    - stg
 </strong><strong>    - production
 </strong><strong>    
-</strong><strong>run_test:
+</strong><strong>test artifacts:
 </strong>    stage: test
     image: python:3.9-slim-buster
     before_script:
@@ -32,7 +32,7 @@ In the following script I am using docker to build a CI/CD pipeline. In order to
         -  echo "Rajan Silwal" > rajan.txt
 
 
-build_imag:
+build the car:
     stage: build
     image: docker:20.10
     services:
@@ -56,7 +56,7 @@ testing staging:
         - touch rajan.txt
         -  echo "Rajan Silwal" > rajan.txt
 
-production:
+Production:
     stage: production
     image: python:3.9-slim-buster
     before_script:
