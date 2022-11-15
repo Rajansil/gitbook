@@ -26,4 +26,4 @@ description: My daily work in Ooma from November 2021 - Present
 * Provisioning and configuration of all Servers
 * Disk management by adding, replacing and partitioning the existing servers according to the requirement.
 * Experienced in cloning VM using ansible/VMware/Manually copying images and deploying.
-*
+* Working with different DC team for all hardware failures.
