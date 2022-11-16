@@ -58,3 +58,4 @@
 * [🌥 VPC](cloud-aws/opennebula-2.md)
 * [🌥 Load Balancer](cloud-aws/load-balancer.md)
 * [🌥 S3 Bucket](cloud-aws/s3-bucket.md)
+* [🌥 Route 53](cloud-aws/route-53.md)
