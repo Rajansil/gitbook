@@ -31,6 +31,7 @@
 
 * [📍 Introduction](docker/introduction/README.md)
   * [Docker-Hub](docker/introduction/docker-hub.md)
+  * [Same Docker image in VM](docker/introduction/same-docker-image-in-vm.md)
 
 ## 🏎 Automation Tools
 
