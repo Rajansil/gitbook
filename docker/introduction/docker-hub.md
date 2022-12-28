@@ -46,7 +46,11 @@ Here is the final output in local machine with **localhost:80**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-12-27 at 4.52.22 PM.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;                  Running same image in **AWS** Virtal Machine
+&#x20;               **Running same image in AWS Virtal Machine**
+
+Inorder to run the same image in AWS we need to do following steps:\
+\
+**Step 1:** Create a repository in docker hub and push the image image to docker hub
 
 1\. Create a EC2 instances ([https://app.gitbook.com/o/Sl85xsDKUHFlvowLtBga/s/9wnMXVEmEJ7k6VEhLJYN/\~/changes/aNCytkzQw3O9d4ixbcKU/cloud-aws/opennebula](../../cloud-aws/opennebula.md))
 
