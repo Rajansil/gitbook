@@ -25,5 +25,10 @@ Inorder to run the same image in VM we need to do following steps:\
 
 **Step 6:** Install Docker on Linux --> **yum install docker -y**
 
-**Step 7:** Since our repository is public so we can pull that image directly from internet:\
-&#x20;   Ex: **sudo docker** **run -d --rm --name test1 -p 80:80 test**
+Step 7: Now, start the docker --> **sudo docker start**
+
+**Step 8:** Since our repository is public so we can pull that image directly from internet:\
+&#x20;   Ex: **sudo docker** **run -d --rm --name test1 -p 80:80 rajansilwal04/first\_test:tagname**
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-12-27 at 11.51.40 PM.png" alt=""><figcaption></figcaption></figure>
+
