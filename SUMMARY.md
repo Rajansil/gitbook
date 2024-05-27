@@ -33,6 +33,11 @@
   * [Docker image](container/docker/docker-image.md)
   * [Same Docker image in VM](container/docker/same-docker-image-in-vm.md)
 
+## 🚗 k8s
+
+* [Same Docker image in VM](k8s/same-docker-image-in-vm.md)
+* [Install K8S](k8s/install-k8s.md)
+
 ## 🏎️ Automation Tools
 
 * [🖨️ Ansible](automation-tools/ansible/README.md)
