@@ -8,4 +8,3 @@
 
 We are using this terraform archarchitecture in our environment
 
-****

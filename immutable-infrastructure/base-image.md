@@ -1,4 +1,4 @@
-# 3⃣ Base Image
+# 3️⃣ 3⃣ Base Image
 
 In this process we already have our basic OS in our opennebula. Now need to create a VM in OpenNebula and install some configuration along with contexturization features of opennebula\
 \
@@ -8,8 +8,8 @@ In this process we already have our basic OS in our opennebula. Now need to crea
 **4.   Save image to other name**\
 **5.   Upload new image to minio storage**\
 **6.   Delete vm**\
-****\
-****
+\
+
 
 ```
 - hosts: HostName

@@ -35,8 +35,8 @@ CMD ["node", "app.js"]
 
 **Step 4:** Run that build image using folloeing command:\
 &#x20;    **docker run -d --rm --name test1 -p 80:80 test,** \
-****\
-****Here **test** image is running in port 80 with the name **test1**
+\
+Here **test** image is running in port 80 with the name **test1**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-12-27 at 4.49.03 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,10 +48,9 @@ Here is the final output in local machine with **localhost:80**
 
 
 
-****
 
-****
 
-****
 
-****
+
+
+

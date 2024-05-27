@@ -1,14 +1,14 @@
-# 1⃣ Content
+# 1️⃣ 1⃣ Content
 
 **Overall Layout of of Immutable Infrastructure** \
-****
+
 
 * **Virt-Install(OS image)**
 * **Base image(opennebula context)**
 * **Golden Image (Basic company stuff)**
 * **Ansible after-golden-image( All the remaining company packages )**
 * **App Image( MYSQL, Kazoo, FreeSwitch and so on)**\
-  ****
+
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-22 at 1.37.14 PM.png" alt=""><figcaption></figcaption></figure>
 

@@ -10,7 +10,7 @@ For more information : [https://grafana.com](https://grafana.com)
     <figure><img src="../.gitbook/assets/Screen Shot 2022-10-31 at 11.27.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  **Once you install a prometheus on grafana now, go to this link** [**https://grafana.com/grafana/dashboards/1860-node-exporter-full/**](https://grafana.com/grafana/dashboards/1860-node-exporter-full/)****\
+2.  **Once you install a prometheus on grafana now, go to this link** [**https://grafana.com/grafana/dashboards/1860-node-exporter-full/**](https://grafana.com/grafana/dashboards/1860-node-exporter-full/)\
     **and copy ID and paste on grafana page and Load** \
     \
 

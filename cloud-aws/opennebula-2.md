@@ -1,4 +1,4 @@
-# 🌥 VPC
+# 🌥️ VPC
 
 It is a Amazon Virtual Private Cloud which provides you a full control over your virtual netowrking environment. It enables us to connect our on-premises resources to AWS infrastructure through a virtual private network. For more informations: [https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
@@ -27,4 +27,4 @@ Things to remember before we connect instances:
 
 
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 10.51.01 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 10.51.01 AM (1).png" alt=""><figcaption></figcaption></figure>

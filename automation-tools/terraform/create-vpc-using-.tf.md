@@ -25,7 +25,7 @@ terraform apply
 ```
 
 Now we will see the following ouput after we **terraform apply**\
-****
+
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2022-11-06 at 4.15.12 PM.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,4 +1,4 @@
-# 4⃣ Golden-Image
+# 4️⃣ 4⃣ Golden-Image
 
 Golden Image means we will have some basic stuffs of company and all the required packages that we have in Centos OS. \
 Once we create a Base Image, now we will do that following to make our golden image.
@@ -9,10 +9,10 @@ Once we create a Base Image, now we will do that following to make our golden im
 4. **Save image**
 5. **Upload to minio**
 6. **Delete vm instance**\
-   ****
+
 
 **`Golden-server-config.yaml has ome basic package of company which won't be change so often. installing some yum packages, Disbaling ipv4/6, node_exporter, editing sudoers file and so on`** \
-**``**
+
 
 ```
 - hosts: HostName

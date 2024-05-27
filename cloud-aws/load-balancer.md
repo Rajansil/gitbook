@@ -1,11 +1,11 @@
-# 🌥 Load Balancer
+# 🌥️ Load Balancer
 
 It is a single point of contact for clients. The load balancer distributes incoming application traffic across multiple nodes, in multiple Availability Zones. Simply, It controls the incomming traffic into a different nodes. It helps for redundancy process.  For more information: \
 [https://aws.amazon.com/elasticloadbalancing/](https://aws.amazon.com/elasticloadbalancing/)\
 
 
 **Following this need while setting up VPC** \
-****\
+\
 **Step 1:** Create a VPC first -->Check out VPC module for more details on how to create VPC
 
 ```
